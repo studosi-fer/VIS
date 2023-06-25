@@ -1,0 +1,37 @@
+Dokaz - Jednostavan dokaz i/ili izvod,teorija
+Računski - Pretežito lagan unošenje u formulu, eventualno malo razumljevanje
+Razumijevanje - Svođenje apstraktnih koncepata na nešto šta se da izračunat/dokazat, teži
+
+Dokaz-Vjerovatnost = JIR2022[1],LJIR2022[1],ZIR2022[6],JIR2021[1],LJIR2021[1],2JIR2020[1] = 6/11
+
+Računski-Vjerovatnost = JIR2022[1],LJIR2022[2],JIR2021[1],ZIR2021[1],DIR2020[1],2JIR2020[1],1JIR2020[1],LJIR2020[1],ZIR2020[1] = 9/11
+
+Dokaz-UvjetnaVjerovatnost = DIR2020[2],1JIR2020[2],ZIR2020[2] = 3/11
+
+Računski-UvjetnaVjerovatnost = JIR2022[2],JIR2021[2],LJIR2021[2],2JIR2020[2],1JIR2020[2],LJIR2020[2],ZIR2020[2] = 7/11
+
+Dokaz-Diskretne = LJIR2022[3],ZIR2022[3],DIR2020[3],2JIR2020[3],LJIR2020[3],ZIR2020[3] = 6/11
+
+Računski-Diskretne = LJIR2022[3],ZIR2022[3],LJIR2021[3],ZIR2021[2,3],DIR2020[3],2JIR2020[3],LJIR2020[3] = 7/11
+
+Dokaz-Neprekinute = JIR2021[3,4],DIR2020[4],1JIR2020[4],LJIR2020[4],ZIR2020[4] = 5/11
+
+Računski-Neprekinute = LJIR2022[4],ZIR2022[1,2],JIR2021[3],ZIR2020[4] = 4/11
+
+Razumijevanje-Neprekinute = JIR2022[3],JIR2022[4],ZIR2022[5],LJIR2021[4,5],ZIR2021[4],DIR2020[4],2JIR2020[4],1JIR2020[5] = 8/11
+
+Računski-SlučajniVektori = LJIR2022[5],ZIR2022[4],1JIR2020[3],ZIR2020[5] = 4/11
+
+Računski-CGT&MLT = JIR2022[5],ZIR2022[1,3],JIR2021[5],LJIR2021[6],ZIR2021[5],DIR2020[5],2JIR2020[5],1JIR2020[5],LJIR2020[5],ZIR2020[4] = 10/11
+
+Dokaz-IntervalPouzdanosti = JIR2022[6] = 1/11
+
+Računski-IntervalPouzdanosti = JIR2022[6] = 1/11
+
+Računski-KriterijNajveceIzglednosti = LJIR2022[6],ZIR2022[2],DIR2020[6(kao,not realy)],2JIR2020[6],ZIR2020[6] = 5/11
+
+Dokaz-NepristranProcjenitelj = JIR2021[6],LJIR2020[6],ZIR2020[6] = 3/11
+
+Računski-NepristranProcjenitelj = LJIR2022[6],ZIR2022[2,5],1JIR2020[6] = 3/11
+
+Razumijevanje-NepristranProcjenitelj = ZIR2021[6] = 1/11
